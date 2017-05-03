@@ -1,0 +1,10 @@
+    1  gti status
+    2  git status
+    3  git init
+    4  ls -la
+    5  git status
+    6  rm -rf .git
+    7  git status
+    8  git init
+    9  history
+   10  history >> note.txt
